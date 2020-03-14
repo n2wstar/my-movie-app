@@ -1,3 +1,3 @@
-# Movie App
+# My-Movie-app
 
-React JS Movie app
+Native JS Movie app
