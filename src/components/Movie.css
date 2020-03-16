@@ -7,6 +7,14 @@
     display: flex;
 }
 
+a{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    text-decoration: none;
+    color: inherit;
+}
+
 .movie .movie__name{
     position: relative;
     max-width:150px;
@@ -19,9 +27,9 @@
 
 .movie__data{
     margin-left: 0.4rem;
+    text-decoration:none;
 }
 .movie .movie__title{
-    color: black;
     margin-top:0.5rem;
     font-size: 1.5rem;
     font-style: italic;
@@ -38,7 +46,7 @@
     list-style: none;
     padding:0;
     margin:0;
-    font-size: 0.8rem;
+    font-size: 0.7rem;
     display:flex;
     margin :5px 0px;
     padding-left: 0.3rem;
